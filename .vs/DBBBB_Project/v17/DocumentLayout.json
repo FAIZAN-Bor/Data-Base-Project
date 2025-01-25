@@ -1,0 +1,692 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\New folder\\DBBBB_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_salary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|d:\\new folder\\dbbbb_project\\dbbbb_project\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\sign_up.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_to_do_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_to_do_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_to_do_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_to_do_task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\employess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_revenue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_empl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_empl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_empl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_empl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_check_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_check_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_checck_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_checck_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_checck_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_checck_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\splash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_book_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_book_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_sell_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_sell_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_cust_support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_cust_support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_sell_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_sell_ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\no_use.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\no_use.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_assign_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_assign_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_track_trainscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_track_trainscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_track_trainscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_track_trainscs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_prev_reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_prev_reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_prev_reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_prev_reserv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_check_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_check_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\pass_book_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\pass_book_seats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\emp_cust_support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\emp_cust_support.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_trains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_trains.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\admin_assign_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\admin_assign_tasks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|D:\\New folder\\DBBBB_Project\\dbbbb_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0552EA8-8696-4267-A0C4-67BEA0148539}|DBBBB_Project\\DBBBB_Project.csproj|solutionrelative:dbbbb_project\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Connection.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Connection.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Connection.cs",
+              "RelativeToolTip": "DBBBB_Project\\Connection.cs",
+              "ViewState": "AQIAABsAAAAABAAAAAAQwMsBAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:21:11.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Admin_empl.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_empl.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_empl.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_empl.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin_empl.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwBYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:11:21.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogIN.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\LogIN.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\LogIN.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\LogIN.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\LogIN.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:48:42.578Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sign_up.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Sign_up.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Sign_up.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Sign_up.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Sign_up.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:31:12.461Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sign_up.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Sign_up.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Sign_up.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Sign_up.cs",
+              "RelativeToolTip": "DBBBB_Project\\Sign_up.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:17:35.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Emp_salary.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_salary.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_salary.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_salary.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Emp_salary.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:54:07.348Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employess.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Employess.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Employess.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Employess.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Employess.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:08:31.83Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Admin_Revenue.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Revenue.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Revenue.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Revenue.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Revenue.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:22:54.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emp_to_do_task.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_to_do_task.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_to_do_task.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_to_do_task.cs",
+              "RelativeToolTip": "DBBBB_Project\\Emp_to_do_task.cs",
+              "ViewState": "AQIAACAAAAAAlpmZmZkTwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:38:35.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Emp_to_do_task.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_to_do_task.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_to_do_task.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_to_do_task.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Emp_to_do_task.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:55:41.076Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Employess.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Employess.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Employess.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Employess.cs",
+              "RelativeToolTip": "DBBBB_Project\\Employess.cs",
+              "ViewState": "AQIAAC0AAABwZmZmZkY/wFAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:30:31.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Admin_empl.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_empl.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_empl.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_empl.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_empl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:21:36.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Admin_Revenue.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Revenue.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Revenue.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Revenue.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Revenue.cs",
+              "ViewState": "AQIAADoAAAAALzMzMzMqwEgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:43:14.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pass_Check_profile.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Check_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Check_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Check_profile.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Check_profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:51:55.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pass_Feedback.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Feedback.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Feedback.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Feedback.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:27:17.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Emp_checck_profile.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_checck_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_checck_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_checck_profile.cs",
+              "RelativeToolTip": "DBBBB_Project\\Emp_checck_profile.cs",
+              "ViewState": "AQIAACEAAACAAQAAAEAlwFAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:09:06.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Emp_checck_profile.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_checck_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_checck_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_checck_profile.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Emp_checck_profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:08:43.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Splash.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Splash.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Splash.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Splash.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Splash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:31:16.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Pass_Book_seats.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Book_seats.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Book_seats.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Book_seats.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Book_seats.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:57:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Emp_sell_ticket.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_sell_ticket.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_sell_ticket.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_sell_ticket.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Emp_sell_ticket.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:54:38.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Emp_Cust_support.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_Cust_support.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_Cust_support.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_Cust_support.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Emp_Cust_support.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:53:02.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Admin_Feedback.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Feedback.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Feedback.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Feedback.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Feedback.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:21:59.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Emp_sell_ticket.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_sell_ticket.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_sell_ticket.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_sell_ticket.cs",
+              "RelativeToolTip": "DBBBB_Project\\Emp_sell_ticket.cs",
+              "ViewState": "AQIAACsAAABAMjMzMzMmwB8AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:37:31.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:34:30.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Admin.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T12:44:23.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "no_use.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\no_use.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\no_use.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\no_use.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\no_use.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:18:35.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Passenger.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Passenger.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Passenger.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Passenger.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Passenger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:56:08.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Admin_profile.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_profile.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin_profile.cs",
+              "ViewState": "AQIAAFEAAAAAy8zMzEwXwF4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:28:45.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admin_profile.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_profile.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:27:57.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admin_Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Dashboard.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Dashboard.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:38:06.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Admin_Assign_Tasks.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Assign_Tasks.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Assign_Tasks.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T11:18:27.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin_Dashboard.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Dashboard.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Dashboard.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Dashboard.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Dashboard.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAASwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:36:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Pass_track_trainscs.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_track_trainscs.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_track_trainscs.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_track_trainscs.cs",
+              "RelativeToolTip": "DBBBB_Project\\Pass_track_trainscs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:50:02.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Pass_track_trainscs.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_track_trainscs.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_track_trainscs.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_track_trainscs.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Pass_track_trainscs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:59:08.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Pass_prev_reserv.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_prev_reserv.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_prev_reserv.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_prev_reserv.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Pass_prev_reserv.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:58:44.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Pass_prev_reserv.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_prev_reserv.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_prev_reserv.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_prev_reserv.cs",
+              "RelativeToolTip": "DBBBB_Project\\Pass_prev_reserv.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIA4wBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:48:11.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Pass_Feedback.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Feedback.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Feedback.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Feedback.cs",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Feedback.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA4wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:45:37.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Pass_Check_profile.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Check_profile.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Check_profile.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Check_profile.cs",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Check_profile.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA4wBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:27:34.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Pass_Book_seats.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Book_seats.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Pass_Book_seats.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Pass_Book_seats.cs",
+              "RelativeToolTip": "DBBBB_Project\\Pass_Book_seats.cs",
+              "ViewState": "AQIAADcAAADA/P////8qwEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:40:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Emp_Cust_support.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_Cust_support.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Emp_Cust_support.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Emp_Cust_support.cs",
+              "RelativeToolTip": "DBBBB_Project\\Emp_Cust_support.cs",
+              "ViewState": "AQIAABMAAAAQZmZmZuYwwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:36:59.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Admin_trains.cs [Design]",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_trains.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_trains.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_trains.cs [Design]",
+              "RelativeToolTip": "DBBBB_Project\\Admin_trains.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:22:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Admin_Assign_Tasks.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "RelativeToolTip": "DBBBB_Project\\Admin_Assign_Tasks.cs",
+              "ViewState": "AQIAADMAAACAu8zMzMwawEEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T16:06:49.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "LogIN.cs",
+              "DocumentMoniker": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\LogIN.cs",
+              "RelativeDocumentMoniker": "DBBBB_Project\\LogIN.cs",
+              "ToolTip": "D:\\New folder\\DBBBB_Project\\DBBBB_Project\\LogIN.cs",
+              "RelativeToolTip": "DBBBB_Project\\LogIN.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T15:48:44.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

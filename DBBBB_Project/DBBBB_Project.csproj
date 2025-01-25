@@ -1,0 +1,358 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B0552EA8-8696-4267-A0C4-67BEA0148539}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>DBBBB_Project</RootNamespace>
+    <AssemblyName>DBBBB_Project</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.0.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4.6\lib\net472\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Bcl.AsyncInterfaces, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Bcl.AsyncInterfaces.6.0.0\lib\net461\Microsoft.Bcl.AsyncInterfaces.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.DataAccess, Version=4.112.2.0, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=AMD64" />
+    <Reference Include="Oracle.ManagedDataAccess, Version=4.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.21.14.0\lib\net462\Oracle.ManagedDataAccess.dll</HintPath>
+    </Reference>
+    <Reference Include="Oracle.ManagedDataAccess.EntityFramework, Version=6.122.21.1, Culture=neutral, PublicKeyToken=89b483f429c47342, processorArchitecture=MSIL">
+      <HintPath>..\packages\Oracle.ManagedDataAccess.EntityFramework.21.9.0\lib\net462\Oracle.ManagedDataAccess.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Buffers.4.5.1\lib\net461\System.Buffers.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Formats.Asn1, Version=8.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Formats.Asn1.8.0.0\lib\net462\System.Formats.Asn1.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Management" />
+    <Reference Include="System.Memory, Version=4.0.1.2, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Memory.4.5.5\lib\net461\System.Memory.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Numerics.Vectors, Version=4.1.4.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Numerics.Vectors.4.5.0\lib\net46\System.Numerics.Vectors.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Runtime.CompilerServices.Unsafe, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Runtime.CompilerServices.Unsafe.6.0.0\lib\net461\System.Runtime.CompilerServices.Unsafe.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Encodings.Web, Version=6.0.0.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Encodings.Web.6.0.0\lib\net461\System.Text.Encodings.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Text.Json, Version=6.0.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Text.Json.6.0.1\lib\net461\System.Text.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.Threading.Tasks.Extensions.4.5.4\lib\net461\System.Threading.Tasks.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ValueTuple, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
+      <HintPath>..\packages\System.ValueTuple.4.5.0\lib\net47\System.ValueTuple.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Admin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Assign_Tasks.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Assign_Tasks.Designer.cs">
+      <DependentUpon>Admin_Assign_Tasks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="no_use.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="no_use.Designer.cs">
+      <DependentUpon>no_use.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Dashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Dashboard.Designer.cs">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_profile.Designer.cs">
+      <DependentUpon>Admin_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_empl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_empl.Designer.cs">
+      <DependentUpon>Admin_empl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Feedback.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Feedback.Designer.cs">
+      <DependentUpon>Admin_Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Revenue.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_Revenue.Designer.cs">
+      <DependentUpon>Admin_Revenue.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_trains.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Admin_trains.Designer.cs">
+      <DependentUpon>Admin_trains.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Connection.cs" />
+    <Compile Include="Employess.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Employess.Designer.cs">
+      <DependentUpon>Employess.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_checck_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emp_checck_profile.Designer.cs">
+      <DependentUpon>Emp_checck_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_Cust_support.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emp_Cust_support.Designer.cs">
+      <DependentUpon>Emp_Cust_support.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_salary.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emp_salary.Designer.cs">
+      <DependentUpon>Emp_salary.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_sell_ticket.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emp_sell_ticket.Designer.cs">
+      <DependentUpon>Emp_sell_ticket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Emp_to_do_task.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Emp_to_do_task.Designer.cs">
+      <DependentUpon>Emp_to_do_task.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LogIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIN.Designer.cs">
+      <DependentUpon>LogIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Passenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Passenger.Designer.cs">
+      <DependentUpon>Passenger.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass_Book_seats.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pass_Book_seats.Designer.cs">
+      <DependentUpon>Pass_Book_seats.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass_Check_profile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pass_Check_profile.Designer.cs">
+      <DependentUpon>Pass_Check_profile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass_Feedback.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pass_Feedback.Designer.cs">
+      <DependentUpon>Pass_Feedback.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass_prev_reserv.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pass_prev_reserv.Designer.cs">
+      <DependentUpon>Pass_prev_reserv.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pass_track_trainscs.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Pass_track_trainscs.Designer.cs">
+      <DependentUpon>Pass_track_trainscs.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sign_up.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sign_up.Designer.cs">
+      <DependentUpon>Sign_up.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Splash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Splash.Designer.cs">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Assign_Tasks.resx">
+      <DependentUpon>Admin_Assign_Tasks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="no_use.resx">
+      <DependentUpon>no_use.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Dashboard.resx">
+      <DependentUpon>Admin_Dashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_empl.resx">
+      <DependentUpon>Admin_empl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Feedback.resx">
+      <DependentUpon>Admin_Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_profile.resx">
+      <DependentUpon>Admin_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_Revenue.resx">
+      <DependentUpon>Admin_Revenue.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Admin_trains.resx">
+      <DependentUpon>Admin_trains.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Employess.resx">
+      <DependentUpon>Employess.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_checck_profile.resx">
+      <DependentUpon>Emp_checck_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_Cust_support.resx">
+      <DependentUpon>Emp_Cust_support.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_salary.resx">
+      <DependentUpon>Emp_salary.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_sell_ticket.resx">
+      <DependentUpon>Emp_sell_ticket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Emp_to_do_task.resx">
+      <DependentUpon>Emp_to_do_task.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LogIN.resx">
+      <DependentUpon>LogIN.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Passenger.resx">
+      <DependentUpon>Passenger.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass_Book_seats.resx">
+      <DependentUpon>Pass_Book_seats.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass_Check_profile.resx">
+      <DependentUpon>Pass_Check_profile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass_Feedback.resx">
+      <DependentUpon>Pass_Feedback.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass_prev_reserv.resx">
+      <DependentUpon>Pass_prev_reserv.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pass_track_trainscs.resx">
+      <DependentUpon>Pass_track_trainscs.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Sign_up.resx">
+      <DependentUpon>Sign_up.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Splash.resx">
+      <DependentUpon>Splash.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Oracle.DataAccess.Common.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Oracle.ManagedDataAccess.Client.Configuration.Section.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets" Condition="Exists('..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>This project references NuGet package(s) that are missing on this computer. Use NuGet Package Restore to download them.  For more information, see http://go.microsoft.com/fwlink/?LinkID=322105. The missing file is {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\System.Text.Json.6.0.1\build\System.Text.Json.targets'))" />
+  </Target>
+</Project>
